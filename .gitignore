@@ -1,0 +1,17 @@
+# Ignore everything
+*
+  !/.gitignore
+ !*.go
+!go.sum
+  !go.mod
+!*.svg
+  !*.jpg
+ !README.md
+!LICENSE
+ !Dockerfile-base
+!*.c
+!*.java
+!*.h
+# !Makefile
+# ...even if they are in subdirectories
+!*
